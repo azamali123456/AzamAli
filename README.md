@@ -1,6 +1,6 @@
 
 [![MasterHead]
- (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSGvuB7MOqh9R7U9Eq7KkhZEiDTEUJpAK131m8qNm&s)] 
+ (https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif)] 
 (https://rishavchanda.io)
 
 
