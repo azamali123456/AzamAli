@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan , Panjab ,RYK.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azamali123456&label=Profile%20views&color=0e75b6&style=flat" alt="azamali123456" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamali123456&label=Profile%20views&color=0e75b6&style=flat" alt="azamali123456" /> </p> -->
 
 - 🔭 I’m currently working on **M-Learning**
 
