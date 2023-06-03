@@ -1,6 +1,6 @@
 
 [![MasterHead]
-<!-- (https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)] -->
+ (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSGvuB7MOqh9R7U9Eq7KkhZEiDTEUJpAK131m8qNm&s)] 
 (https://rishavchanda.io)
 
 
