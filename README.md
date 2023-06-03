@@ -1,9 +1,9 @@
 
-[![MasterHead]
+<!-- [![MasterHead]
  (https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif)] 
-(https://rishavchanda.io)
+(https://rishavchanda.io) -->
 
- <image width={400} height={300}  src="https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif" alt="top image"/>
+ <image width={600} height={300}  src="https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif" alt="top image"/>
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan , Panjab ,RYK.</h3>
 
