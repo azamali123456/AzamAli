@@ -5,7 +5,7 @@
 
  <image width={600} height={300}  src="https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif" alt="top image"/>
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan , Panjab ,RYK.</h3>
+<h3 align="center">A passionate MERN Stack developer from Pakistan , Panjab ,RYK.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamali123456&label=Profile%20views&color=0e75b6&style=flat" alt="azamali123456" /> </p>
 
