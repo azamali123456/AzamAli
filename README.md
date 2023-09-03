@@ -20,11 +20,7 @@
 
 - ⚡ Fun fact **I am funny**
 
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-
-
-- :mailbox:How to reach me: [![Link Badge](https://azamali123456.github.io/My-Portfolio/)](your-linkedin-url)
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
