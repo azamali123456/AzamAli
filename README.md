@@ -3,7 +3,7 @@
  (https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif)] 
 (https://rishavchanda.io) -->
 
- <image width={800} height={200}  src="https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif" alt="top image"/>
+ <image width={1000} height={200}  src="https://user-images.githubusercontent.com/59872807/89733365-a8b85100-da72-11ea-8677-742c0a8e9187.gif" alt="top image"/>
 <h1 align="center">Hi 👋, I'm Azam Ali</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan , Panjab ,RYK.</h3>
 
