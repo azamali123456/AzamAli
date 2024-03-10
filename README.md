@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **PS-USA**
 
-- 🌱 I’m currently learning **KAFKA and postGre**
+- 🌱 I’m currently learning **KAFKA and Postgres**
 
 - 💬 Ask me about **MERN Applications**
 
