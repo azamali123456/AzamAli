@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azam-ali-455402255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azam-ali-455402255" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21332391/azam-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21332391/azam-ali" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/https://stackoverflow.com/users/21332391/azam-ali](https://stackoverflow.com/users/21332391/azam-ali)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21332391/azam-ali" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100030632889504&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100030632889504&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/azamali7030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azamali7030" height="30" width="40" /></a>
 </p>
