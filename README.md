@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azamali123456&label=Profile%20views&color=0e75b6&style=flat" alt="azamali123456" /> </p>
 
 
-- 🔭 I’m currently working on **PS-USA**
+- 🔭 I’m currently working on **Assure-GPT**
 
 - 🌱 I’m currently learning **KAFKA and Postgres**
 
