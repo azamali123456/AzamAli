@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Assure-GPT**
 
-- 🌱 I’m currently learning **KAFKA and Postgres**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **MERN Applications**
 
